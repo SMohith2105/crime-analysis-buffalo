@@ -1,2 +1,2 @@
-CSE 587C Data Intensice Computing Project
+CSE 587C Data Intensive Computing Project
 Team 15
