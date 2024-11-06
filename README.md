@@ -29,7 +29,7 @@ Analysis of Question: src/50604219_Phase_2.ipynb dataset: data/Business_Licenses
 Question 2: Is there a  significant difference in the number of crimes that occur near police stations compared to areas farther away from police stations?
 Analysis of Question: src/50604219_Phase_2.ipynb 
 
-4: Sanhitha Reddy Manikanti 50602796
+4. Sanhitha Reddy Manikanti 50602796
 Question 1: How to approach the analysis of temporal crime patterns, focusing on variations in crime across different days and times?
 Analysis of Question: src/50602796_Phase_2.ipynb
 Question 2:  How to classify crime types based on temporal and spatial features and how different types of crime based on time and location details
