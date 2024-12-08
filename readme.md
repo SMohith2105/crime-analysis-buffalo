@@ -59,11 +59,8 @@ This project analyzes and predicts crime patterns in Buffalo using various appro
 To build and run the application from source code, follow these steps:
 
 1. **Set Up the Environment**
-   Ensure you have Python 3.11 or a compatible version installed. Create a virtual environment and install the required dependencies:
-
+   Ensure you have Python 3.11 or a compatible version installed. Install the required dependencies:
    ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    pip install -r requirements.txt
    ```
 
