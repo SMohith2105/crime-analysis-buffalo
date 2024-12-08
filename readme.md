@@ -52,6 +52,7 @@ This project analyzes and predicts crime patterns in Buffalo using various appro
   - `scripts/data_preperation.py`: Data preparation script.
 
 - **app.py**: Streamlit application for presenting the crime analysis dashboard.
+- **project_report_phase_3.pdf**: Contains project report for phase 3.
 
 ## Building and Running the App
 
