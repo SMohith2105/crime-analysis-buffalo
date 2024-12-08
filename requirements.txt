@@ -1,0 +1,10 @@
+pandas
+prophet
+joblib
+xgboost
+scikit-learn
+plotly
+streamlit
+pydeck
+sqlite3
+requests
